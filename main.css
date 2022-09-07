@@ -1,0 +1,786 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+.vol{
+	background: #1D1D1F;
+	height: 50px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	color: #1D1D1F;
+}
+.logo{
+	margin-top: -22px;
+	width: 40px;
+	height:40px;
+	right: 1285px;
+	position: absolute;
+}
+.lok{
+	background: white;
+	height: 600px;
+	text-align: center;
+	font-weight: bold;
+}
+.h{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.lo{
+	font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 1000px;
+    transition: 0.5s;
+    color: blue;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 2000px;
+}
+
+.ko{
+	text-align: center;
+	background: white;
+	margin-top: 50px;
+}
+.k{
+	background: #511851;
+	height: 410px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+
+}
+.lok{
+	height: 200px;
+}
+.jol{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.kl{
+	font-size: 30px;
+	text-align: center;
+	color: #fec2eb;
+}
+.jk{
+	width: 700px;
+}
+.jop{
+	height: 300px;
+	margin-top: 30px;
+}
+.jg{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	transition: 0.5s;
+	color: #f5f5f7;
+    padding: 0;
+    max-width: none;
+    margin-left: 20px;
+ font-family: 'Anton', sans-serif;
+ font-family: 'Inter', sans-serif;
+}
+.jg:hover{
+	font-size: 20px;
+	text-align: center;
+	margin-right: 40px;
+	color: grey;
+}
+.lo:hover{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	color: grey;
+	transition: 0.6s;
+}
+.hp{
+	text-align: center;
+	width: 100%;
+}
+.io{
+	font-size: 30px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.pol{
+	width: 80%;
+	height: 80%;
+}
+.ja{
+	font-size: 30px;
+	text-decoration: none;
+	margin-top: 40px;
+}
+.koo{
+	margin-top:5px;
+}
+.hjo{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.plo{
+	text-align: left;
+}
+.lk{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+}
+.klom{
+	margin-right: 50px;
+}
+.h_white{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;	
+}
+.h_black{
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	font-size: 40px;
+	margin-top: 5px;
+	margin-right:10px;
+}
+.Mac_img{
+	height: 300px;
+}
+.jop{
+	width: 40%;
+	height: 50%
+}
+.juk{
+
+}
+.white{
+	margin-right: 100px;
+	margin-top:50px;
+}
+.not{
+	margin-right: 0px;
+}
+.koll{
+	width: 500px;
+	text-align:center;
+}
+.joli{
+    
+}
+.jkh{
+	margin-right: 100px;
+}
+
+
+
+
+
+
+
+@media (max-width: 420px)
+{
+	*{
+		padding: 0;
+		margin: 0;
+		border: 0;
+		box-sizing: border-box;
+	}
+	.vol-wrapper{
+    margin-top: 78px;
+    padding: 10px;
+    line-height: 34px;
+}
+	body {
+    background: #fff;
+    color: #313131;
+    min-height: 100vh;
+    font-family: 'Roboto', Helvetica;
+    font-size: 18px;
+}
+
+.logo{
+	margin-top: -22px;
+	width: 40px;
+	height:40px;
+	right: 1285px;
+	position: absolute;
+}
+.lok{
+	background: white;
+	height: 600px;
+	text-align: center;
+	font-weight: bold;
+}
+.h{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.lo{
+	font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 1000px;
+    transition: 0.5s;
+    color: blue;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 2000px;
+}
+
+.ko{
+	text-align: center;
+	background: white;
+	margin-top: 50px;
+}
+.k{
+	background: #511851;
+	height: 410px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+
+}
+.lok{
+	height: 200px;
+}
+.jol{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.kl{
+	font-size: 30px;
+	text-align: center;
+	color: #fec2eb;
+}
+.jk{
+	width: 700px;
+}
+.jop{
+	height: 300px;
+	margin-top: 30px;
+}
+.jg{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	transition: 0.5s;
+	color: #f5f5f7;
+    padding: 0;
+    max-width: none;
+}
+.jg:hover{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	color: grey;
+}
+.lo:hover{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	color: grey;
+	transition: 0.6s;
+}
+.hp{
+	text-align: center;
+	width: 100%;
+}
+.io{
+	font-size: 30px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.pol{
+	width: 80%;
+	height: 80%;
+}
+.ja{
+	font-size: 30px;
+	text-decoration: none;
+	margin-top: 40px;
+}
+.koo{
+	margin-top:5px;
+}
+.hjo{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.plo{
+	text-align: left;
+}
+.lk{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+}
+.klom{
+	margin-right: 50px;
+}
+.h_white{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;	
+}
+.h_black{
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	font-size: 40px;
+	margin-top: 5px;
+	margin-right:10px;
+}
+.Mac_img{
+	height: 300px;
+}
+.jop{
+	width: 40%;
+	height: 50%
+}
+.juk{
+
+}
+.white{
+	margin-right: 100px;
+	margin-top:50px;
+}
+.not{
+	margin-right: 0px;
+}
+.koll{
+	width: 500px;
+	text-align:center;
+}
+.joli{
+    
+}
+.jkh{
+	margin-right: 100px;
+}
+
+
+
+}
+.bolg{
+	 display: inline-block; 
+    overflow: hidden; 
+}
+.bol{
+	  transition: 1s; 
+    display: block; 
+}
+.bol:hover{
+	transform: scale(1.2); 
+}
+
+@medi{
+body{
+	font-family: 'Raleway', sans-serif;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+.vol{
+	background: #1D1D1F;
+	height: 50px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	color: #1D1D1F;
+}
+.logo{
+	margin-top: -22px;
+	width: 40px;
+	height:40px;
+	right: 1285px;
+	position: absolute;
+}
+.lok{
+	background: white;
+	height: 600px;
+	text-align: center;
+	font-weight: bold;
+}
+.h{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.lo{
+	font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 1000px;
+    transition: 0.5s;
+    color: blue;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 2000px;
+}
+
+.ko{
+	text-align: center;
+	background: white;
+	margin-top: 50px;
+}
+.k{
+	background: #511851;
+	height: 410px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+
+}
+.lok{
+	height: 200px;
+}
+.jol{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.kl{
+	font-size: 30px;
+	text-align: center;
+	color: #fec2eb;
+}
+.jk{
+	width: 700px;
+}
+.jop{
+	height: 300px;
+	margin-top: 30px;
+}
+.jg{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	transition: 0.5s;
+	color: #f5f5f7;
+    padding: 0;
+    max-width: none;
+    margin-left: 20px;
+ font-family: 'Anton', sans-serif;
+ font-family: 'Inter', sans-serif;
+}
+.jg:hover{
+	font-size: 20px;
+	text-align: center;
+	margin-right: 40px;
+	color: grey;
+}
+.lo:hover{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	color: grey;
+	transition: 0.6s;
+}
+.hp{
+	text-align: center;
+	width: 100%;
+}
+.io{
+	font-size: 30px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.pol{
+	width: 80%;
+	height: 80%;
+}
+.ja{
+	font-size: 30px;
+	text-decoration: none;
+	margin-top: 40px;
+}
+.koo{
+	margin-top:5px;
+}
+.hjo{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.plo{
+	text-align: left;
+}
+.lk{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+}
+.klom{
+	margin-right: 50px;
+}
+.h_white{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;	
+}
+.h_black{
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	font-size: 40px;
+	margin-top: 5px;
+	margin-right:10px;
+}
+.Mac_img{
+	height: 300px;
+}
+.jop{
+	width: 40%;
+	height: 50%
+}
+.juk{
+
+}
+.white{
+	margin-right: 100px;
+	margin-top:50px;
+}
+.not{
+	margin-right: 0px;
+}
+.koll{
+	width: 500px;
+	text-align:center;
+}
+.joli{
+    
+}
+.jkh{
+	margin-right: 100px;
+}
+
+
+
+
+
+
+
+@media (max-width: 320px)
+{
+	.vol{
+	background: #1D1D1F;
+	height: 50px;
+	width: 500px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	color: #1D1D1F;
+}
+.logo{
+	margin-top: -22px;
+	width: 40px;
+	height:40px;
+	right: 1285px;
+	position: absolute;
+}
+.lok{
+	background: white;
+	height: 600px;
+	text-align: center;
+	font-weight: bold;
+}
+.h{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.lo{
+	font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 1000px;
+    transition: 0.5s;
+    color: blue;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 2000px;
+}
+
+.ko{
+	text-align: center;
+	background: white;
+	margin-top: 50px;
+}
+.k{
+	background: #511851;
+	height: 410px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+
+}
+.lok{
+	height: 200px;
+}
+.jol{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.kl{
+	font-size: 30px;
+	text-align: center;
+	color: #fec2eb;
+}
+.jk{
+	width: 700px;
+}
+.jop{
+	height: 300px;
+	margin-top: 30px;
+}
+.jg{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	transition: 0.5s;
+	color: #f5f5f7;
+    padding: 0;
+    max-width: none;
+}
+.jg:hover{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	color: grey;
+}
+.lo:hover{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	color: grey;
+	transition: 0.6s;
+}
+.hp{
+	text-align: center;
+	width: 100%;
+}
+.io{
+	font-size: 30px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.pol{
+	width: 80%;
+	height: 80%;
+}
+.ja{
+	font-size: 30px;
+	text-decoration: none;
+	margin-top: 40px;
+}
+.koo{
+	margin-top:5px;
+}
+.hjo{
+	font-size: 60px;
+	margin-top: 50px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+}
+.plo{
+	text-align: left;
+}
+.lk{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+}
+.klom{
+	margin-right: 50px;
+}
+.h_white{
+	font-size: 40px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;	
+}
+.h_black{
+	font-family: 'Anton', sans-serif;
+	font-family: 'Inter', sans-serif;
+	font-size: 40px;
+	margin-top: 5px;
+	margin-right:10px;
+}
+.Mac_img{
+	height: 300px;
+}
+.jop{
+	width: 40%;
+	height: 50%
+}
+.juk{
+
+}
+.white{
+	margin-right: 100px;
+	margin-top:50px;
+}
+.not{
+	margin-right: 0px;
+}
+.koll{
+	width: 500px;
+	text-align:center;
+}
+.joli{
+    
+}
+.jkh{
+	margin-right: 100px;
+}
+
+
+
+}
+.bolg{
+	 display: inline-block; 
+    overflow: hidden; 
+}
+.bol{
+	  transition: 1s; 
+    display: block; 
+}
+.bol:hover{
+	transform: scale(1.2); 
+}
+
+}
